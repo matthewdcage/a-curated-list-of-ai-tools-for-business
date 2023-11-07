@@ -206,6 +206,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
+- [VectorArt.ai](https://vectorart.ai/) - Create vector images with AI.
+
 
 ### Graphic design
 

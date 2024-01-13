@@ -52,6 +52,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Productivity
 
 - [Ready to Send](Ready to Send) - Auto-generated draft email replies for Gmail.
+- [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
 
 ### Meeting assistants
 

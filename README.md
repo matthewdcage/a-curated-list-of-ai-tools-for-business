@@ -257,6 +257,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Fliki](https://fliki.ai/) - Create text to video and text to speech content with ai powered voices in minutes.
 - [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
+- [invideo AI](https://invideo.io/) - Make videos easily by giving a prompt to Invideo AI. Ideal for content creators, YouTubers and marketers.
 
 ### Animation
 
